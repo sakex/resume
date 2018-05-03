@@ -1,0 +1,23 @@
+[
+  {
+    "from": "Nov 2017",
+    "to": "Present",
+    "role": "Co-Founder & CTO",
+    "company": "Sharacar",
+    "description": "I co founded the startup sharacar.com and developped and deployed the whole API with Node.JS (express & mongoDB), I also worked on the front-end with ReactJS."
+  },
+  {
+    "from": "Oct 2017",
+    "to": "Dec 2017",
+    "role": "Full Stack developper",
+    "company": "Hello Hello Production",
+    "description": "I helped create the website hellohelloproduction.com, it is now in standby because the very busy schedule of \"hello hello productions\" founders."
+  },
+  {
+    "from": "Jul 2014",
+    "to": "Aug 2014",
+    "role": "Summer Internship",
+    "company": "OGAS Solutions (Bangkok, Thailand)",
+    "description": "QHSE & Technical Department: QHSE follow-up of the Myanmar subsidiary.\nCommunication Department: review/analysis of group's website and social network\nSourcing Department: review and formatting of candidates' CVs."
+  }
+]

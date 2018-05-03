@@ -1,0 +1,21 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  text-align: justify;
+  background-color: #1f2123;
+  color: white;
+}
+
+#grid{
+  width: 100%;
+  min-width: 1362px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: minmax(85vh, 750px) minmax(85vh, 750px) minmax(85vh, 750px);
+}
+
+#grid > div{
+  position: relative;
+}
