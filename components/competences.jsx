@@ -18,7 +18,7 @@ const style = {
 };
 
 const Languages = (props) => {
-  const color = (props.black) ?'#726c54':'white';
+  const color = (props.black) ?'black':'white';
   const lStyle = {
     background: props.color,
     lineHeight: '145px',
