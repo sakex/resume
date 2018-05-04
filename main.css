@@ -5,6 +5,14 @@ body{
   color: white;
 }
 
+a{
+  color: inherit;
+}
+
+a:hover{
+  color: blueviolet;
+}
+
 #grid{
   width: 100%;
   min-width: 1362px;
@@ -13,7 +21,7 @@ body{
   left: 0;
   display: grid;
   grid-template-columns: 50% 50%;
-  grid-template-rows: minmax(85vh, 750px) minmax(85vh, 750px) minmax(85vh, 750px);
+  grid-template-rows: repeat(5, minmax(95vh, auto));
 }
 
 #grid > div{

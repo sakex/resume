@@ -2,8 +2,7 @@ import React, {Component} from 'react';
 
 const style = {
   fontSize: '20px',
-  marginBottom: '70px',
-  width: '650px'
+  marginBottom: '70px'
 };
 
 const dateStyle = {
@@ -28,7 +27,8 @@ const companyStyle = {
 
 const descStyle = {
   marginTop: 0,
-  color: '#e8cfcf96'
+  color: '#e8cfcf96',
+  width: 'minmax(70%, 650px)'
 };
 
 class Quote extends Component{
@@ -38,7 +38,7 @@ class Quote extends Component{
         <p style={dateStyle}>{this.props.from} - {this.props.to}</p>
         <p style={roleStyle}>{this.props.role}</p>
         <p style={companyStyle}>@{this.props.company}</p>
-        <p style={descStyle}>{this.props.description}</p>
+        <p style={descStyle} dangerouslySetInnerHTML={{__html: this.props.description}}></p>
       </div>
     );
   }

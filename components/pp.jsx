@@ -13,7 +13,7 @@ const layer = {
   width: '100%',
   height: '100%',
   objectFit: 'cover',
-  backgroundColor: 'rgba(31, 33, 35, .85)',
+  backgroundColor: 'rgba(31, 33, 35, .75)',
   position: 'absolute',
   top: 0
 };

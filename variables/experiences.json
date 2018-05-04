@@ -7,9 +7,23 @@
     "description": "I co founded the startup sharacar.com and developped and deployed the whole API with Node.JS (express & mongoDB), I also worked on the front-end with ReactJS."
   },
   {
+    "from": "January 2018",
+    "to": "January 2018",
+    "role": "Freelance web developper",
+    "company": "Sarmin Bauxite",
+    "description": "I designed, coded and deployed the website <a target='_blank' href='http://www.sarminbauxite.com/'>http://www.sarminbauxite.com/</a> using ReactJS."
+  },
+  {
+    "from": "October 2017",
+    "to": "Febuary 2018",
+    "role": "University Assistant (Finance, CAS)",
+    "company": "HEC Lausanne, CAS (finance)",
+    "description": "Correction of finance exams for the CAS formation at HEC Lausanne."
+  },
+  {
     "from": "Oct 2017",
     "to": "Dec 2017",
-    "role": "Full Stack developper",
+    "role": "Freelance web developper",
     "company": "Hello Hello Production",
     "description": "I helped create the website hellohelloproduction.com, it is now in standby because the very busy schedule of \"hello hello productions\" founders."
   },

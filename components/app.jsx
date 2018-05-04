@@ -5,7 +5,8 @@ import Infos from './infos.jsx';
 import Titles from './titles.jsx';
 import Experiences from './experiences';
 import Education from './education';
-
+import Competences from './competences';
+import Contact from './contact';
 
 class App extends Component {
   render() {
@@ -17,6 +18,10 @@ class App extends Component {
         <Experiences/>
         <Titles text='education'/>
         <Education />
+        <Competences />
+        <Titles text='competences' />
+        <Titles text='informations' />
+        <Contact />
       </div>
     );
   }

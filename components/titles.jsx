@@ -7,7 +7,8 @@ const style = {
   fontSize: '200px',
   display: 'inline-block',
   position: 'absolute',
-  top: 'calc(50% - 300px)'
+  top: 'calc(50% - 300px)',
+  fontFamily: 'Anonymous Pro'
 };
 
 const pStyle = {
